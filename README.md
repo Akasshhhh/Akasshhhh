@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akasshhhh
 - 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning Full stack blockchain development, DSA.
-- 💞️ I’m looking to collaborate on future hackathons
+- 💞️ Reach me at twitter @socia1construc1
 
 <!---
 Akasshhhh/Akasshhhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
