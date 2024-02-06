@@ -8,7 +8,7 @@ I am currently working on improving my skills in Full Stack Blockchain Developme
 I am always on the lookout for new technologies and concepts to learn. Currently, I am focusing on learning more about Solidity, Ethereum, and other blockchain technologies. I am also learning about advanced Data Structures and Algorithms.
 
 📫 How to reach me:
-You can email me at akashmf283@gmail.com. I am always happy to chat about technology, programming, and open for collaborations.
+You can email me at akashmishra9896@gmail.com. I am always happy to chat about technology, programming, and open for collaborations.
 
 💻 Technologies and Tools:
 Programming Languages: JavaScript, Python, C++, C, Solidity
